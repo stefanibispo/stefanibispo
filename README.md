@@ -1,18 +1,18 @@
+## Stefani Bispo | Desenvolvedora Full Stack
 
+Com experiência em aplicações web modernas. Apaixonada por tecnologia, aprendizado contínuo e pela construção de soluções que geram impacto real.
 
-## Oii, eu sou a Stefani Bispo
+Atuo na IBM como desenvolvedora, com formação em Análise e Desenvolvimento de Sistemas. Tenho experiência no desenvolvimento de aplicações web com foco em performance, escalabilidade e boas práticas de engenharia de software.
 
+🎯 Tecnologias e ferramentas:
+- **Frontend**: React, TypeScript, HTML, CSS
+- **Backend**: Node.js, APIs REST
+- **Ferramentas**: Git, Docker, CI/CD, metodologias ágeis
 
-📚 Estudante de Análise e Desenvolvimento de Sistemas pela USCS
+💡 Valorizo código limpo, colaboração entre equipes e a entrega de soluções alinhadas às necessidades do negócio.
 
+🔍 Atualmente em constante evolução como profissional, ampliando meus conhecimentos em arquitetura de software, cloud e práticas DevOps.
 
- ### Main skills:
-![React.js](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
-![React.js](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
-![React.js](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
-![React.js](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
-![React.js](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![React.js](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-
+📫 Vamos nos conectar: [LinkedIn](https://www.linkedin.com/in/stefani-bispo-3bb7b0123/)
 
 📧 Sinta-se à vontade para entrar em contato diretamente em: stefani.pessoal@hotmail.com
